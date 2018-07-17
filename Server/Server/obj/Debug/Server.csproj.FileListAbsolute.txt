@@ -1,0 +1,8 @@
+G:\毕设\test\socket测试\服务器端\Server\Server\bin\Debug\Server.exe.config
+G:\毕设\test\socket测试\服务器端\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\毕设\test\socket测试\服务器端\Server\Server\bin\Debug\Server.exe
+G:\毕设\test\socket测试\服务器端\Server\Server\bin\Debug\Server.pdb
+G:\毕设\test\socket测试\服务器端\Server\Server\obj\Debug\Server.exe
+G:\毕设\test\socket测试\服务器端\Server\Server\obj\Debug\Server.pdb
+G:\毕设\test\socket测试\服务器端\Server\Server\bin\Debug\MySql.Data.dll
+G:\毕设\test\socket测试\服务器端\Server\Server\bin\Debug\MySql.Data.xml
